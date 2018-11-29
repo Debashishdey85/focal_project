@@ -8,7 +8,7 @@
     }
 }
 body{
-    font-family: 'Roboto Condensed', sans-serif;margin:0px;padding:0px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .clearfix{
     clear:both;
@@ -47,11 +47,11 @@ body{
 .menubar{
     background-color: #252E30 !important;
 }
+.menubar #collapsibleNavbar{
+    justify-content: center;
+}
 .bg-dark{
     background-color: #252E30 !important;
-}
-.menubar #collapsibleNavbar{
-    justify-content: center;padding:5px 0px;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;font-family: 'Roboto Condensed', sans-serif;font-weight: bold;font-size: 12px;
