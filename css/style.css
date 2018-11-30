@@ -340,6 +340,22 @@ content_aria .aside p{
 
 
 
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (max-width: 767px) {
+.slider .slider_aria{
+            height: 70vh;background-size: 100% 100%;
+            
+}	
+    
+	
+}
 
 
 
