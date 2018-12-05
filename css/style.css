@@ -219,17 +219,18 @@ content_aria .aside p{
     margin-bottom: 100px;background: #f2f2f1;
 }
 .content_bottom .carousel-caption {
-    right: 7%;
-    left: 7%;
+    right: 12%;
+    left: 2%;
     text-align: center;
 }
 .content_bottom .carousel-caption p{
    color: #919191;font-family: 'Roboto Condensed', sans-serif;font-size: 16px;
 }
 .content_bottom .carousel-indicators{
-    position: inherit;margin-top: -28px;
-    margin-left: 24px;
-    margin-right: auto;
+    position: inherit;
+    margin-top: -28px;
+    margin-left: 0%;
+    margin-right: 7%;
 }
 .content_bottom .carousel-indicators li{
     border-radius: 13px;width: 13px;height: 14px;border: 3px solid #2ECC71;
@@ -363,7 +364,10 @@ px      68    160    252    */
     height: 11px;
     border: 3px solid #2ECC71;
 }  
-
+.content_bottom .carousel-indicators {
+    margin-left: 3%;
+    margin-right: 7%;
+}
 
 }
 
