@@ -216,7 +216,9 @@ content_aria .aside p{
 }
 /*---content bottom css--*/
 .content_bottom{
-    margin-bottom: 100px;background: #f2f2f1;
+    margin-bottom: 100px;
+    background: #f2f2f1;
+    padding-bottom: 5px;
 }
 .content_bottom .carousel-caption {
     right: 12%;
@@ -233,7 +235,7 @@ content_aria .aside p{
     margin-right: 7%;
 }
 .content_bottom .carousel-indicators li{
-    border-radius: 13px;width: 13px;height: 14px;border: 3px solid #2ECC71;
+    border-radius: 13px;width: 13px;height: 13px;border: 3px solid #2ECC71;
 }
 .content_bottom .carousel-indicators .active{
     background: #2ECC71;
