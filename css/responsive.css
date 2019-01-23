@@ -64,12 +64,19 @@ px      68    160    252    */
     margin-right: 7%;
 }
  .slider .slider_text h5{
-       margin-left: -247px; 
+       margin-left: -247px;
+       font-size: 17px;
     }
     .slider .buttn{
        margin-left: -247px;
     }
-
+   .slider .buttn a{
+      color: #fff;
+      font-size: 11px;
+}
+    .content_bottom .carousel-caption h2 {
+        margin-bottom: 20px;
+    }
 
 
 }
