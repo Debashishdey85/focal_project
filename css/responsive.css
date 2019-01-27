@@ -70,14 +70,13 @@ px      68    160    252    */
     .slider .buttn{
        margin-left: -235px;
     }
-   .slider .buttn a{
+    .slider .buttn a{
       color: #fff;
       font-size: 11px;
 }
     .content_bottom .carousel-caption h2 {
         margin-bottom: 20px;
     }
-
 
 }
 
