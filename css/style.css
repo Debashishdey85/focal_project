@@ -3,9 +3,9 @@
 .carousel-caption h5{
     font-family: 'Roboto Condensed', sans-serif;font-weight: bold;
 }
-@media all and (min-width:1460px){
+@media all and (min-width:1660px){
     .container{
-        width:1400px;
+        width:1600px;
     }
 }
 body{
