@@ -45,7 +45,7 @@ body, html { overflow-x:hidden; }
 }
 .carousel-caption h5{
     text-transform: uppercase;
-    font-size: 4vw;
+    font-size: 4.5vw;
     margin-top: -2%;
     text-align: center;
 }
@@ -98,7 +98,7 @@ body, html { overflow-x:hidden; }
     margin-bottom: 100px;background: #F2F2F1;
 }
 .about_aria .about {
-    padding-right: 62px;
+    padding-right: 10px;
 }
 .about_aria .slider_2{
     width: ;height: auto;
