@@ -98,7 +98,7 @@ body, html { overflow-x:hidden; }
     margin-bottom: 100px;background: #F2F2F1;
 }
 .about_aria .about {
-    padding-right: 10px;
+    padding-right: 20px;
 }
 .about_aria .slider_2{
     width: ;height: auto;
@@ -125,7 +125,7 @@ body, html { overflow-x:hidden; }
     color: #919191;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 12px;margin-bottom: 15px;
-    margin-left: 20px;padding-left: 8px;
+    margin-left: 20px;
 }
 .web_mrg{
     margin-top: 55px;
